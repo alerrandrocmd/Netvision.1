@@ -1,0 +1,7 @@
+"android": {
+  "package": "com.seuusuario.netvision",
+  "versionCode": 1,
+  "config": {
+    "googleMaps": { "apiKey": "SUA_API_KEY" }
+  }
+}
